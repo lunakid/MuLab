@@ -1,2 +1,2 @@
 # MuLab
-MuLab Collaboration (internal repo!)
+MuLab Collaboration Example Repo
