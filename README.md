@@ -1,2 +1,2 @@
 # MuLab
-MuLab Collaboration Example Repo
+MuLab Collab.
